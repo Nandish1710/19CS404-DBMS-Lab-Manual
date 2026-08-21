@@ -7,7 +7,6 @@ To study and implement DML (Data Manipulation Language) commands.
 
 ### 1. INSERT INTO
 Used to add records into a relation.
-These are three type of INSERT INTO queries which are as
 A)Inserting a single record
 **Syntax (Single Row):**
 ```sql
